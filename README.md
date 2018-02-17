@@ -16,3 +16,6 @@ If you like it better, you can interact with oasis-dex, instead of oasis-direct,
 
 Please document in a separate .MD file the tools you use for writing, debugging, testing and deploying the smart contracts, and where you keep track of them in order to manage them. You can deploy on any network you like, please add in a separate .MD file the network, contract address, bytecode and ABI.
 
+Oasis-direct is already live on kovan at the below addresses:
+https://github.com/OasisDEX/oasis-direct-base/blob/master/src/settings.json
+
