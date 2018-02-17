@@ -6,7 +6,7 @@ https://github.com/makerdao/oasis-direct-proxy/blob/master/src/OasisDirectProxy.
 
 Please create a multi-sig wallet which interacts with oasis-direct through a proxy contract, in the context of the multi-sig wallet.
 
-## Instructions: 
+## instructions: 
 clone this repo and work on any tool you like best. When you are done, commit to a new branch you created and query us for review.
 
 Requirements: at least two of the oasis-direct functions should be implemented.
